@@ -8,4 +8,6 @@ third change
 
 forth change
 
-change made by Dev2             change by Dev1 
+
+change made by Dev2             change by Dev1
+change made by Dev2                                                                 change by Dev2 simultaneusly
